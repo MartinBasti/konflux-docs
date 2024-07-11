@@ -1,4 +1,9 @@
 * xref:how-tos/index.adoc[How-tos]
++
+--
+// for extension in dowstream docs
+include::partial$part-{project-context}-extend-how-to-nav.adoc[]
+--
 ** xref:how-tos/creating.adoc[Creating applications and components]
 ** xref:how-tos/configuring/index.adoc[Configuring your builds]
 *** xref:how-tos/configuring/customizing-the-build.adoc[Customizing the build pipeline]
