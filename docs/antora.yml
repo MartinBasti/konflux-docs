@@ -21,6 +21,7 @@ asciidoc:
     page-pagination: '-'
     idprefix: ''
     experimental: ""
+    project-context: "konflux"
 
   # Product content attributes
     ProductName: Konflux

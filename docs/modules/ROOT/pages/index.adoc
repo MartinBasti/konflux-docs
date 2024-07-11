@@ -192,3 +192,5 @@ a|In {ProductName}:
 
 * Learn xref:../how-tos/metadata/index.adoc[how to inspect the SLSA] provenance for your components.
 * Visit the link:https://slsa.dev/spec/v1.0/[SLSA overview page], the link:https://slsa.dev/spec/v1.0/levels[Build Levels] page, or the link:https://slsa.dev/spec/v1.0/verifying-systems[verifying build platforms] page.
+
+include::partial$part-{project-context}-contact.adoc[]
