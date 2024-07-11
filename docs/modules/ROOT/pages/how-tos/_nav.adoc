@@ -21,3 +21,6 @@
 *** xref:how-tos/metadata/sboms.adoc[Inspecting SBOMs]
 *** xref:how-tos/metadata/attestations.adoc[Inspecting artifact attestations]
 ** xref:how-tos/deleting.adoc[Deleting applications and components]
+
+// for extension in dowstream docs
+include::partial$part-{project-context}-extend-how-to-nav.adoc[]
